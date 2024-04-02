@@ -1,4 +1,4 @@
-Front-End Developer
+Full Stack Developer
 
 I'm a dedicated front-end developer in search of my first professional opportunity. At 25 years old, I have gained valuable experience creating personal projects and honing my skills in web development.
 
