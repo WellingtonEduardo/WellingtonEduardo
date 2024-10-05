@@ -12,7 +12,7 @@ Key points about me:
 
 🌍 Based in Minas Gerais, Brazil.<br>
 ✉️ You can contact me at wellingtoneduardo16@outlook.com.<br>
-🚀 Eager to kick-start my professional career as a Front End Software Developer.<br>
+🚀 Eager to kick-start my professional career as a Full Stack Software Developer.<br>
 🧠 Continuously learning and upskilling in technologies like TypeScript and React Native.<br>
 🤝 Open to collaborative opportunities that provide valuable experiences and make a positive impact.<br>
 ⚡ Passionate about sports, football being my favorite.<br>
