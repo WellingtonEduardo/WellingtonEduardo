@@ -1,6 +1,6 @@
 Full Stack Developer
 
-I'm a dedicated front-end developer in search of my first professional opportunity. At 25 years old, I have gained valuable experience creating personal projects and honing my skills in web development.
+I'm a dedicated front-end developer in search of my first professional opportunity. At 26 years old, I have gained valuable experience creating personal projects and honing my skills in web development.
 
 Since embarking on this journey in January 2022, I have maintained a strong enthusiasm for new technologies and continuously sought learning opportunities. Every day, I strive to expand my knowledge and stay updated with the latest industry trends and best practices.
 
